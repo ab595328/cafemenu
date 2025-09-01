@@ -37,7 +37,8 @@ export default function Menu({itoms,ctg}) {
         
                 </article>
             );
-        }
+        } 
+            return null;
         })}
     </div>
     </>
